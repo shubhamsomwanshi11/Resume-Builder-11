@@ -167,8 +167,8 @@ function printDiv() {
       <html>
       <head>
         <title>Print Preview</title>
-        <link rel="stylesheet" href="./css/bulma.min.css">
-        <link rel="stylesheet" href="./css/style.css">
+        <link rel="stylesheet" href="./dist/css/bulma.min.css">
+        <link rel="stylesheet" href="./dist/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <style>
           body {
